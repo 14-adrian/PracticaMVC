@@ -11,4 +11,4 @@ namespace PracticaMVC.Models
 
         public string? estado { get; set; }
     }
-}s
+}
